@@ -13,9 +13,9 @@ My Bucketlist
 - [x] Dive in and touch coral at Phi Phi Islands
 - [x] Skydive at Swakopmund
 - [x] Dune Boarding
-- [ ] Paraglide from Lion's Head
+- [x] Paraglide from Lion's Head
 - [ ] Absail Table Mountain
-- [ ] Hike Lion's Head
+- [x] Hike Lion's Head
 - [ ] Zorb
 - [ ] Scuba Dive
 - [ ] Blob
